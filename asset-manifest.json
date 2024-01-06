@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/xswapx/STOP-IT/static/css/main.eb5eb5b7.css",
+    "main.js": "/xswapx/STOP-IT/static/js/main.cc14d9ea.js",
+    "index.html": "/xswapx/STOP-IT/index.html",
+    "main.eb5eb5b7.css.map": "/xswapx/STOP-IT/static/css/main.eb5eb5b7.css.map",
+    "main.cc14d9ea.js.map": "/xswapx/STOP-IT/static/js/main.cc14d9ea.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eb5eb5b7.css",
+    "static/js/main.cc14d9ea.js"
+  ]
+}
